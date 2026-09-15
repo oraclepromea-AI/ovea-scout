@@ -9,7 +9,7 @@
 
 ## 🌐 Live Demo
 
-**Try it now:** [https://respective-brings-quantity-com.trycloudflare.com](https://respective-brings-quantity-com.trycloudflare.com) — submit a task and watch it route → execute → verify → settle on-chain.
+**Try it now:** [https://contrary-monster-potential-suburban.trycloudflare.com](https://contrary-monster-potential-suburban.trycloudflare.com) — submit a task and watch it route → execute → verify → settle on-chain.
 
 ---
 
